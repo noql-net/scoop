@@ -1,13 +1,13 @@
 {
-    "version": "6.30",
+    "version": "6.31",
     "description": "A GUI client for Windows, support Xray core and v2fly core and others.",
     "homepage": "https://github.com/2dust/v2rayN",
     "license": "GPL-3",
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/2dust/v2rayN/releases/download/6.30/v2rayN.zip",
-            "hash": "c99b9f20cf419640f7eaaf67a01ff0c43ef9c1824aba066fcecd27aea7f834e2"
+            "url": "https://github.com/2dust/v2rayN/releases/download/6.31/v2rayN.zip",
+            "hash": "793361e439f6acdda59219595b0d8d15032fd173e2369fbd2f768bdc20dcb531"
         }
     },
     "checkver": {
