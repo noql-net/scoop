@@ -1,13 +1,13 @@
 {
-    "version": "1.6.1",
+    "version": "1.6.3",
     "description": "Multi-platform proxy client made with Flutter.",
     "homepage": "https://github.com/hiddify/hiddify-next",
     "license": "",
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hiddify/hiddify-next/releases/download/v1.6.1/Hiddify-Windows-Portable-x64.zip",
-            "hash": "b364838a415c2cc2bed4e9ccb0385d5511ae95ea7a38d76a4ed6acec8c39d305"
+            "url": "https://github.com/hiddify/hiddify-next/releases/download/v1.6.3/Hiddify-Windows-Portable-x64.zip",
+            "hash": "ca21ee88c54dc475dd830dc09a4826d3e93cab44cc100850152f0504baaf54f4"
         }
     },
     "checkver": {
