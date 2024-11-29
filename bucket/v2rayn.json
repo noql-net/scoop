@@ -26,7 +26,7 @@
         "bin",
         "guiConfigs"
     ],
-    "extract_dir": "v2rayN",
+    "extract_dir": "v2rayN-windows-64",
     "bin": "v2rayN.exe",
     "shortcuts": [
         [
