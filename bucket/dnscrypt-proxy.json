@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/$version/dnscrypt-proxy-win64v$version.zip"
+                "url": "https://github.com/DNSCrypt/dnscrypt-proxy/releases/download/$version/dnscrypt-proxy-win64-$version.zip"
             }
         }
     },
