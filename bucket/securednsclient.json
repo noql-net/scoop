@@ -1,13 +1,13 @@
 {
-    "version": "3.2.5",
+    "version": "3.2.7",
     "description": "A DNS Client Supporting DNSCrypt, Anonymized DNSCrypt, DoH, DoT, UDP And TCP.",
     "homepage": "https://github.com/msasanmh/DNSveil",
     "license": "GPL-3",
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/msasanmh/DNSveil/releases/download/v3.2.5/SecureDNSClientPortable_v3.2.5_x64.7z",
-            "hash": "585cfcf138e2aaea21884d4116850cc158cb29f1647633002f54d793424b09d5"
+            "url": "https://github.com/msasanmh/DNSveil/releases/download/v3.2.7/SecureDNSClientPortable_v3.2.7_x64.7z",
+            "hash": "63fcf0658316d37708a2089f283da1e62159878ac5ed95c3e64bd0aa5b21e455"
         }
     },
     "checkver": "github",
