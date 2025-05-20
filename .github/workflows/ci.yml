@@ -1,4 +1,4 @@
-name: Tests
+name: Scoop Core CI Tests
 
 on:
   push:
@@ -14,17 +14,17 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Checkout Bucket
-        uses: actions/checkout@v4
+        uses: actions/checkout@main
         with:
           fetch-depth: 2
           path: my_bucket
       - name: Checkout Scoop
-        uses: actions/checkout@v4
+        uses: actions/checkout@main
         with:
           repository: ScoopInstaller/Scoop
           path: scoop_core
       - name: Init Test Suite
-        uses: potatoqualitee/psmodulecache@v5.1
+        uses: potatoqualitee/psmodulecache@main
         with:
           modules-to-cache: BuildHelpers
           shell: powershell
@@ -38,17 +38,17 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Checkout Bucket
-        uses: actions/checkout@v4
+        uses: actions/checkout@main
         with:
           fetch-depth: 2
           path: my_bucket
       - name: Checkout Scoop
-        uses: actions/checkout@v4
+        uses: actions/checkout@main
         with:
           repository: ScoopInstaller/Scoop
           path: scoop_core
       - name: Init Test Suite
-        uses: potatoqualitee/psmodulecache@v5.1
+        uses: potatoqualitee/psmodulecache@main
         with:
           modules-to-cache: BuildHelpers
           shell: pwsh
