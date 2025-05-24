@@ -1,13 +1,13 @@
 {
-    "version": "v2.91.11",
+    "version": "v2.91.17",
     "description": "Oblivion Desktop",
     "homepage": "https://github.com/bepass-org/oblivion-desktop",
     "license": "",
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v2.91.11/oblivion-desktop-win-x64.zip",
-            "hash": "48e9f06e9345fe676675c65256c004ff4356d0305c340cbafb5446f3720815a5"
+            "url": "https://github.com/bepass-org/oblivion-desktop/releases/download/v2.91.17/oblivion-desktop-win-x64.zip",
+            "hash": "238246c4e40befd5fe83d5cfee54c30564c6e07f04ab17939bc21750dbf93a1f"
         }
     },
     "checkver": {
