@@ -1,19 +1,19 @@
 {
-    "version": "1.12.6",
+    "version": "1.12.7",
     "description": "The universal proxy platform.",
     "homepage": "https://github.com/SagerNet/sing-box",
     "license": "GPL",
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/SagerNet/sing-box/releases/download/v1.12.6/sing-box-1.12.6-windows-amd64.zip",
-            "hash": "c0cbffafffb46abe630cffc2cefdfab365c00bff1633e1ddd3df9fb7b1595a3a",
-            "extract_dir": "sing-box-1.12.6-windows-amd64"
+            "url": "https://github.com/SagerNet/sing-box/releases/download/v1.12.7/sing-box-1.12.7-windows-amd64.zip",
+            "hash": "fdb6707e12d1606d9cb9ff7ad8085904eae27755fa175de7e23441032df08cb0",
+            "extract_dir": "sing-box-1.12.7-windows-amd64"
         },
         "arm64": {
-            "url": "https://github.com/SagerNet/sing-box/releases/download/v1.12.6/sing-box-1.12.6-windows-arm64.zip",
-            "hash": "6444f067385efb2fad6b2edb16d824704d23fe366eb574c98cfbbdfe422591d6",
-            "extract_dir": "sing-box-1.12.6-windows-arm64"
+            "url": "https://github.com/SagerNet/sing-box/releases/download/v1.12.7/sing-box-1.12.7-windows-arm64.zip",
+            "hash": "6443a0ef652f580f1dd16231835001c86fb30d28ec1b25c63560ae0ddabad3e8",
+            "extract_dir": "sing-box-1.12.7-windows-arm64"
         }
     },
     "checkver": "github",
