@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/geph-official/gephgui-pkg/releases/download/v$version/geph-windows-setup.exe"
+                "url": "https://github.com/geph-official/gephgui-pkg/releases/download/v$version/geph-windows-$version.exe"
             }
         }
     },
